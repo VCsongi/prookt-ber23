@@ -1,2 +1,2 @@
 # prookt-ber23
-#github böngészőből írtam
+# github böngészőből írtam
