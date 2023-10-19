@@ -12,5 +12,12 @@ table{
     background-image: url(./img/hatter.jpg);
 }
 .k{
+    width: 300px;
     border: 1px solid black;
+}
+.szoveg{
+    float: right;
+}
+#link{
+    color: black;
 }
