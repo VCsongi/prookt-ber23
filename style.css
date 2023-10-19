@@ -11,3 +11,6 @@ table{
     margin: 0 auto;
     background-image: url(./img/hatter.jpg);
 }
+.k{
+    border: 1px solid black;
+}
